@@ -15,3 +15,12 @@ a, a:hover, a:visited{
     color: unset;
     text-decoration: none;
 }
+
+.dsmeta-red-btn-container{
+  display: flex;
+  justify-content: center;
+}
+
+#sales{
+  padding: 40px 10px;
+}
